@@ -1,0 +1,27 @@
+print ("Hello World!")
+# output: Hello World!
+
+x = "AR"      
+X = "AD"
+ print(x)
+ print(X)
+#This is a comment
+output : AR
+         AD
+
+x = y = z = "Apple"
+print(x)
+print(y)              
+print(z)
+# output : Apple
+           Apple
+           Apple
+           
+2My_Name = "Aryan"
+print(2My_Name)
+# output : ERROR (for variables we cannot use the numbers.)
+
+# This is from ARYAN_TECHNO.
+# hope you understand.
+# Thanks...
+# : This symbol is used for commenting out statements 
