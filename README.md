@@ -1,4 +1,4 @@
-# Hello World program in Python               .............(# symbol used for comementing out the statement.)
+# Hello World program in Python               .............(# symbol used for commenting out the statement.)
     
 print "Hello World!\n"
 print "Hey Buddy"
