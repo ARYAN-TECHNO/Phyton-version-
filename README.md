@@ -2,29 +2,35 @@
     
 print "Hello World!\n"
 print "Hey Buddy"
+# OUTPUT :
+Hey Buddy
+
 if 5 > 2:
     print("five is greater then the two")
     
-
+# OUTPUT :
+five is greater then the two
 
 if  30 + 30 < 50 + 50:
-    print("Two thirties is lesser then the two fifties!")
+    print(" thirty is lesser then thefifty")
+   # OUTPUT:
+   thirty is lesse then thefifty
     
-'''                                      ..........................(''' these are als used for commenting out the statements.)
+'''                                      ..........................(''' these are als used for commenting out the statements''')
 No other programming is having so much fun that python has.
 
-'''
+'''🤔🤔 (No outputs here because here we commented the statement.
 
 #No other programming is having so much fun that python has.
+
+(SAME AS ABOVE) NO OUTPUT.
 
 x = 74
 y = 65
 print (x + y)
-print(x)
-print(y)
-print("x is a one of the indirect variable form")
-print("y is a one of the indirect variable form")
-print("seventy four is greater then the sixty five.")
+
+# OUTPUT :
+139
 
 # ✌ DIFFERENT TYPES OF VARIABLES CASES USED IN PYTHON
 # CAMEL CASE
@@ -42,17 +48,7 @@ Present_Year = 2022
 print(Present_Year - Birth_Year)Hello World!
 
 
-
-# outputs : 
-Hey Buddy
-five is greater then the two
-Two thirties is lesser then the two fifties!
-139
-74
-65
-x is a one of the indirect variable form
-y is a one of the indirect variable form
-seventy four is greater then the sixty five.
+# OUTPUTS OF FOLLOWINGS :
 Aryan
 Aditya
 Vipul
